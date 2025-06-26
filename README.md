@@ -54,3 +54,28 @@ Problem Statement:
 16.	Total Impression By Country
 17.	Average Sentiment Score By Hashtags
 18.	Average Sentiment Score By Keywords
+
+Insights:
+1.	Posting activity is fairly consistent across months. May and December have slightly higher posting activity, while February saw the lowest.
+2.	Data suggests that engagement peaks during the start and end of the year.
+3.	The campaign “SummerDreams" had the highest engagement. Campaigns like “BackToschool” and “SustainableFuture” had the lowest engagement.
+4.	Data shows Wednesday had the highest engagement rate among days of the week.
+5.	Reddit had the highest engagement rate among platforms at 26%.Instagram followed closely with 25% engagement.
+6.	The most common emotions associated with higher engagement are “Excited” and “Sad” both at 21%.
+7.	Microsoft has the highest average engagement rate among the listed brands. Coca-Cola has the lowest user sentiment average among all brands.
+8.	The topic “Delivery” has the highest average sentiment score. “Product” receives the lowest sentiment score, indicating dissatisfaction. The topic "Product" had fewer improvements compared to others.
+9.	Negative sentiment posts perform better in engagement than positive ones.
+10.	41% of emotions contributed to significantly improved engagement. Another 41% of emotions led to significantly declined engagement. Only 19% of emotions resulted in stable engagement levels
+11.	Post-launch campaigns saw the highest growth in user engagement.
+12.	“Angry” emotions were associated with a decline in engagement growth.
+13.	At 298.96, USA had the highest Sum of engagement rate and was 293.19% higher than Nigeria, which had the lowest Sum of engagement rate at 76.03.
+14.	Engagement is highest in tech-dominant or digitally active markets, such as the USA, India, and South Korea.
+15.	High Impressions and High Sentiment — impression-rich countries like USA and India should still monitor their sentiment scores.
+16.	The USA alone accounts for over 12% of total impressions, making it the most significant market by a large margin.
+17.	High-usage hashtags like #Fitness, #Reviews, and #BestValue show strong content alignment with themes of health, evaluation, and affordability.
+18.	Keywords emphasize speed, affordability, and customer support — these are central to campaign messaging.
+
+Social Media Post:
+LinkedIn Post 
+Link: https://www.linkedin.com/posts/nehal-jain-1694b031b_powerbi-socialmediaanalytics-sentimentanalysis-activity-7337112041133879298-oQgk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFENm-EBx7j_8sBOAmJ57S3iCgyufl4zXz0 
+
