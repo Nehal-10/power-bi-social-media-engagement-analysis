@@ -1,13 +1,13 @@
-Social Media Engagement Analysis
+# Social Media Engagement Analysis
 
-Introduction to Power BI:
+## Introduction to Power BI:
 Microsoft Power BI is a powerful business intelligence tool that transforms complex data into interactive visual reports. It connects to multiple sources, simplifies modelling, and delivers real-time insights through intuitive dashboards. Power BI empowers users to analyse trends, monitor performance, and support data-driven decisions with visually engaging, easy-to-understand analytics. Report was created using Microsoft Power BI Desktop Version: 2.144.878.0 64-bit (June, 2025).
 
-About Data:
+## About Data:
 The dataset was sourced from Kaggle. It consists of social media post-level data containing 24 columns and approximately 12,000 records (sample shown). It primarily consists of Social Media Analytics Domain. It includes detailed information about posts such as platform, timing, location, hashtags, sentiment, user engagement metrics, and campaign attributes.
 Dataset Link: https://www.kaggle.com/datasets/subashmaster0411/social-media-engagement-dataset 
 
-Dimensions:
+## Dimensions:
 1.	post_id – Unique identifier for each post
 2.	timestamp – Date and time when the post was published
 3.	day_of_week – Day on which the post was made
@@ -23,7 +23,7 @@ Dimensions:
 13.	campaign_name – Marketing or product campaign name
 14.	campaign_phase – Phase of the campaign (Launch, Post-Launch, etc.)
 
-Measures:
+## Measures:
 1.	sentiment_score – Numeric score indicating sentiment polarity
 2.	toxicity_score – Numeric score indicating toxicity level of the post
 3.	likes_count – Number of likes received
@@ -35,7 +35,7 @@ Measures:
 9.	user_engagement_growth – Change in engagement compared to previous posts
 10.	buzz_change_rate – Rate of change in overall visibility or buzz for the post
 
-Problem Statement:
+## Problem Statement:
 1.	Engagement Rate by Date
 2.	Total Post By Date
 3.	Engagement Rate by Campaign
@@ -55,7 +55,7 @@ Problem Statement:
 17.	Average Sentiment Score By Hashtags
 18.	Average Sentiment Score By Keywords
 
-Insights:
+## Insights:
 1.	Posting activity is fairly consistent across months. May and December have slightly higher posting activity, while February saw the lowest.
 2.	Data suggests that engagement peaks during the start and end of the year.
 3.	The campaign “SummerDreams" had the highest engagement. Campaigns like “BackToschool” and “SustainableFuture” had the lowest engagement.
@@ -74,8 +74,3 @@ Insights:
 16.	The USA alone accounts for over 12% of total impressions, making it the most significant market by a large margin.
 17.	High-usage hashtags like #Fitness, #Reviews, and #BestValue show strong content alignment with themes of health, evaluation, and affordability.
 18.	Keywords emphasize speed, affordability, and customer support — these are central to campaign messaging.
-
-Social Media Post:
-LinkedIn Post 
-Link: https://www.linkedin.com/posts/nehal-jain-1694b031b_powerbi-socialmediaanalytics-sentimentanalysis-activity-7337112041133879298-oQgk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFENm-EBx7j_8sBOAmJ57S3iCgyufl4zXz0 
-
